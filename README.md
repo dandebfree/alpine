@@ -1,4 +1,4 @@
-config files for alpine linux with a small mate installation
+# config files for alpine linux with a small mate installation
 
 <br>icons: install the "gnome-brave-icon-theme" for blue folders
 <br>alpine_logo in mate menu...
