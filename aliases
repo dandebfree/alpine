@@ -1,0 +1,22 @@
+# aliases
+
+alias n='sakura &'
+alias s='sakura &'
+alias sk='sakura &'
+alias C=clear
+alias c='clear; uptime'
+alias d='clear; df -ht ext4 | grep -v boot'
+alias f='clear; uptime; free -m'
+alias ee='echo -e'
+alias cv='cat'
+alias cn='cat -n√'
+alias grp='grep --color=auto'
+alias grpn='grep -n'
+alias grpnA='grep -nA'
+alias grpA='grep -A'
+alias dfr='df -ht ext4 | grep -v boot'
+alias apki='doas apk add'
+alias apkr='doas apk del'
+alias apks='doas apk search'
+alias apkl='doas apk list'
+alias po='clear; echo "poweroff ..." ; doas poweroff'
