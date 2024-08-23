@@ -1,8 +1,12 @@
 # please do first "setup-desktop" then chose mate, to full setup with lightdm and rc-services, then you can deinstall mate-desktop-environment and install only this packages for a small mate-installation
 
 gnome-brave-icon-theme
+git
+ed
 caja
 caja-lang
+engrampa
+engrampa-lang
 mate-common
 mate-control-center
 mate-control-center-lang
@@ -25,6 +29,11 @@ mate-terminal
 mate-terminal-lang
 mate-themes
 mate-tweak
+mozo
+pluma
+pluma-lang
 rofi
 gparted
 gparted-lang
+e2fsprogs-extra
+cryptsetup
