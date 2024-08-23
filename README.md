@@ -1,6 +1,6 @@
 # config files for alpine linux with a small mate installation
 
-<br>please do first "setup-desktop" then chose mate, to full setup with lightdm and rc-services, then you can deinstall mate-desktop-environment and install only this packages for a small mate-installation
+<br>please do first "doas setup-desktop" then chose mate, to full setup with lightdm and rc-services, then you can deinstall mate-desktop-environment and install only this packages for a small mate-installation
 <br>
 <br>icons: install the "gnome-brave-icon-theme" for blue folders
 <br>alpine_logo in mate menu...
